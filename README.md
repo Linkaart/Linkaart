@@ -10,6 +10,7 @@
 <br><br>
 <a href="https://discord.com/users/942461457663131689"  align="center">
     <img src="[![Discord Presence](https://lanyard.cnrad.dev/api/942461457663131689)](https://discord.com/users/942461457663131689)">
+    <img src="https://tryhackme-badges.s3.amazonaws.com/LXnkS.png" alt="Your Image Badge" />
 </a>
 </div>
 
