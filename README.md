@@ -3,8 +3,7 @@
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=Engineer+%26+Developper" />
 <br><br>
 <pre>
-     💼 Low level dev • Engineer • DevOps 
-     📖 Malware analysis • Distributed systems
+     💼  dev • Engineer • DevOps 
          Music • Games • Code • Movies
 </pre>
 <br><br>
